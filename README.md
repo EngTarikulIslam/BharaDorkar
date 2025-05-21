@@ -29,7 +29,18 @@
 
 ## 📸 Screenshots
 
-> *(Add screenshots or GIFs of the homepage, map view, listing form, and filtering system here)*
+| Promotion |
+|-------------|
+| ![Flash Screen](images/promotion.png) |
+
+| Home Screen |
+|-------------|
+| ![Flash Screen](images/home.png) |
+
+| Services Screen |
+|-------------|
+| ![Flash Screen](images/services.png) |
+
 
 ---
 
